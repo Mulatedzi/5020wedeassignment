@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 body{
     background-color: lightslategray;
 }
@@ -31,3 +32,37 @@ button{
 button:hover{
     background-color: blue;
 }
+=======
+
+li{
+    color: rgb(51, 17, 242);
+}
+h2{
+    color: rgb(159, 8, 219);
+}
+h1{
+    color: khaki;
+}
+a{
+    color: rgb(14, 178, 184);
+    padding-inline: syntax;
+  
+}  
+
+p{
+    color: rgb(211, 239, 3);
+    
+}
+button{
+    background-color: aquamarine;
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue;
+}
+>>>>>>> Stashed changes
